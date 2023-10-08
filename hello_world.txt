@@ -1,2 +1,4 @@
 Hello now I am working in git! Git the f out!
 why wont this file show in github?
+git commit
+changed this to make it easier
